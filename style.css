@@ -1,0 +1,123 @@
+/* Seu codigo Css vaai aqui*/
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+background-color: fofofo;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    border: 1px solid #333;
+    }
+    #square1, #square2, #square3, #square4, #square5{
+        background-color: red;
+    }
+.column {
+        display: flex;
+        flex-direction: column;
+    }
+.square{
+        width: 100px;
+        height: 100px;
+        margin: 0px;
+        border: 1px solid #333;
+        }
+        #square6, #square10{
+            background-color: red;
+        }
+        #square7{
+            background-color: blue;
+        }
+        #square8{
+            background-color: green;
+        }
+        #square9{
+            background-color: yellow;
+        }
+.column {
+    display: flex;
+    flex-direction: column;
+    }
+    .square{
+        width: 100px;
+        height: 100px;
+        margin: 0px;
+        border: 1px solid #333;
+    }
+    #square11, #square15{
+        background-color: red;
+    }
+    #square12{
+    background-color: blue;
+    }
+    #square13{
+    background-color: green;
+    }
+    #square14{
+        background-color: yellow;
+    }
+.column {
+    display: flex;
+    flex-direction: column;
+    }
+    .square{
+        width: 100px;
+        height: 100px;
+        margin: 0px;
+        border: 1px solid #333;
+    }
+    #square16, #square20{
+        background-color: red;
+    }
+    #square17{
+        background-color: blue;
+    }
+    #square18{
+        background-color: green;
+    }
+    #square19{
+        background-color: yellow;
+    }
+.column {
+    display: flex;
+    flex-direction: column;
+    }
+    .square{
+        width: 100px;
+        height: 100px;
+        margin: 0px;
+        border: 1px solid #333;
+    }
+    #square21, #square25{
+        background-color: red;
+    }
+    #square22{
+        background-color: blue;
+    }
+    #square23{
+        background-color: green;
+    }
+    #square24{
+        background-color: yellow;
+    }
+.column {
+    display: flex;
+    flex-direction: column;
+    }
+    .square{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    border: 1px solid #333;
+    }
+    #square26, #square27, #square28,#square29, #square30, #square31{
+            background-color: red;
+        }
